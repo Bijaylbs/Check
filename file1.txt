@@ -1,5 +1,5 @@
-I am in the first version of file
-This file is for checking the conflict
+Now I am in the first version of filei
+This conflict file is for checking the conflict
 
 Lets see is there any conflict arise
 or not
